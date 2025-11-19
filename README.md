@@ -7,3 +7,4 @@ This is the link for that repository.
 
 ## 🚀 About Me
 Hi, I'm Shivam Thenua! 👋
+A first yeaer student of B-TECH CSE in Artificial Intelligence and Machine Learning in VIT University, Bhopal.
