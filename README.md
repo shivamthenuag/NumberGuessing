@@ -7,4 +7,3 @@ This is the link for that repository.
 
 ## 🚀 About Me
 Hi, I'm Shivam Thenua! 👋
-(shivamthenuag)This is the username of my github profile
